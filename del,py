@@ -1,0 +1,5 @@
+fruits=['apple','orange','melon','hippotaus']
+
+del fruits[2]
+
+print(fruits)
